@@ -39,3 +39,19 @@ function calc(){
 </script>
 </body>
 </html>
+<!-- ZICKEYMUTULI GREEN BUILD BRAND MARK -->
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon: House + Leaf -->
+  <g>
+    <path d="M30 60 L60 30 L90 60 L80 60 L80 90 L40 90 L40 60 Z" fill="#2E7D32" stroke="#1B5E20" stroke-width="2"/>
+    <path d="M60 90 C45 75 55 55 60 50 C65 55 75 75 60 90 Z" fill="#81C784"/>
+    <circle cx="60" cy="72" r="4" fill="#1B5E20"/>
+  </g>
+  <!-- Brand Name -->
+  <text x="110" y="55" font-family="system-ui, sans-serif" font-weight="800" font-size="22" fill="#1B5E20">GREENBUILD</text>
+  <text x="110" y="78" font-family="system-ui, sans-serif" font-weight="300" font-size="16" fill="#2E7D32" letter-spacing="4">KE</text>
+  
+  <!-- Signature Line -->
+  <line x1="110" y1="88" x2="320" y2="88" stroke="#C8E6C9" stroke-width="1"/>
+  <text x="110" y="105" font-family="monospace" font-size="9" fill="#666">Created by zickeymutuli ©2026 all rights reserved</text>
+</svg>
